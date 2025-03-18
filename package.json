@@ -1,0 +1,44 @@
+{
+  "name": "@miracore-ch/react-native-search-filter",
+  "version": "1.0.0",
+  "description": "A powerful and customizable React Native component for searching and filtering data with relevance scoring",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miracore-ch/react-native-search-filter.git"
+  },
+  "keywords": [
+    "react-native",
+    "search",
+    "filter",
+    "component",
+    "text-search",
+    "fuzzy-search",
+    "relevance",
+    "typescript"
+  ],
+  "author": "Miracore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miracore-ch/react-native-search-filter/issues"
+  },
+  "homepage": "https://github.com/Miracore-ch/react-native-search-filter#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.70.0",
+    "typescript": "^4.9.0"
+  }
+}
