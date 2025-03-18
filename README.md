@@ -3,7 +3,7 @@
 A lightweight, highly customizable search component for React Native applications. Provides powerful text search capabilities with both simple and complex search algorithms.
 
 ![npm](https://img.shields.io/npm/v/@miracore-ch/react-native-search-filter)
-![license](https://img.shields.io/npm/l/@miracore-ch/react-native-search-filter)
+[![license](https://img.shields.io/npm/l/@miracore-ch/react-native-highlight-text.svg)](https://www.npmjs.com/package/@miracore-ch/react-native-highlight-text)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)
 
 ## 🌟 Features

@@ -1,6 +1,6 @@
 {
   "name": "@miracore-ch/react-native-search-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful and customizable React Native component for searching and filtering data with relevance scoring",
   "main": "dist/index.js",
   "module": "dist/index.js",
